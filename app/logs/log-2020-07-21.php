@@ -1,0 +1,554 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-21 02:59:06 --> Severity: Notice --> Undefined property: stdClass::$user_namalengkap D:\xampp\htdocs\e-klaim\app\controllers\Home.php 53
+ERROR - 2020-07-21 02:59:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 02:59:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 02:59:08 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:20:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:22:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:22:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:24:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:24:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:25:07 --> Query error: Unknown column 'jml_tagihan' in 'field list' - Invalid query: INSERT INTO `t_berkaspasien` (`tgl_upload`, `nomr`, `id_daftar`, `no_sep`, `nama_pasien`, `kode_jenis`, `tgl_reg`, `tgl_pulang`, `grId`, `id_berkas`, `user_upload`, `jml_tagihan`) VALUES ('2020-07-21 03:25:07', '220004', '2020043743', '0306R0010720V003385', 'ZULMAIDI EDWIN', 'RJTL', '2020-07-20 19:15:08', '', '4', '1', 'admin', '0')
+ERROR - 2020-07-21 03:25:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:25:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:25:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:25:57 --> Query error: Unknown column 'jml_tagihan' in 'field list' - Invalid query: INSERT INTO `t_berkaspasien` (`tgl_upload`, `nomr`, `id_daftar`, `no_sep`, `nama_pasien`, `kode_jenis`, `tgl_reg`, `tgl_pulang`, `grId`, `id_berkas`, `user_upload`, `jml_tagihan`) VALUES ('2020-07-21 03:25:57', '220004', '2020043743', '0306R0010720V003385', 'ZULMAIDI EDWIN', 'RJTL', '2020-07-20 19:15:08', '', '4', '1', 'admin', '0')
+ERROR - 2020-07-21 03:28:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:28:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:31:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:31:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:34 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:35 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:35 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:32:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:33:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:33:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:33:32 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:34:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:34:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:34:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:34:11 --> 404 Page Not Found: Upload_berkas/ritl
+ERROR - 2020-07-21 03:34:16 --> 404 Page Not Found: Upload_berkas/ritl
+ERROR - 2020-07-21 03:35:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:35:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:35:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:37:51 --> 404 Page Not Found: Files/2020
+ERROR - 2020-07-21 03:38:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:38:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:38:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:39:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:32 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:41:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:42:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:42:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:42:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:12 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:12 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:12 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:43:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:44:10 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:44:10 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:44:10 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:46:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:49:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:49:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:49:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:52:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:55:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:55:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:55:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:56:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:56:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:56:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:57:17 --> Severity: Notice --> Undefined property: stdClass::$no_bpjs D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 111
+ERROR - 2020-07-21 03:57:17 --> Severity: Notice --> Undefined property: stdClass::$no_ktp D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 119
+ERROR - 2020-07-21 03:57:17 --> Severity: Notice --> Undefined property: stdClass::$tempat_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 133
+ERROR - 2020-07-21 03:57:17 --> Severity: Notice --> Undefined property: stdClass::$tgl_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 137
+ERROR - 2020-07-21 03:57:17 --> Severity: Notice --> Undefined property: stdClass::$grNama D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 153
+ERROR - 2020-07-21 03:57:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:57:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 03:57:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:06:04 --> Query error: Table 'db_simrs_new.tbl01_pendaftaran' doesn't exist - Invalid query: SELECT *
+FROM `tbl01_pendaftaran`
+WHERE `id_daftar` = '2020043749'
+ERROR - 2020-07-21 04:06:51 --> Query error: Table 'db_simrs_new.tbl01_pendaftaran' doesn't exist - Invalid query: SELECT *
+FROM `tbl01_pendaftaran`
+WHERE `id_daftar` = '2020043749'
+ERROR - 2020-07-21 04:07:00 --> Severity: Notice --> Undefined property: stdClass::$no_ktp D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 119
+ERROR - 2020-07-21 04:07:00 --> Severity: Notice --> Undefined property: stdClass::$tempat_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 133
+ERROR - 2020-07-21 04:07:00 --> Severity: Notice --> Undefined property: stdClass::$tgl_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 137
+ERROR - 2020-07-21 04:07:00 --> Severity: Notice --> Undefined property: stdClass::$grNama D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 153
+ERROR - 2020-07-21 04:07:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:07:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:07:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:07:36 --> Severity: Notice --> Undefined property: stdClass::$tempat_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 133
+ERROR - 2020-07-21 04:07:36 --> Severity: Notice --> Undefined property: stdClass::$tgl_lahir D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 137
+ERROR - 2020-07-21 04:07:36 --> Severity: Notice --> Undefined property: stdClass::$grNama D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 153
+ERROR - 2020-07-21 04:07:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:07:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:07:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:08:01 --> Severity: Notice --> Undefined property: stdClass::$grNama D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 153
+ERROR - 2020-07-21 04:08:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:08:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:08:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:08:43 --> Severity: Notice --> Undefined property: stdClass::$ruang D:\xampp\htdocs\e-klaim\app\views\admin\upload_berkas\view_form.php 153
+ERROR - 2020-07-21 04:08:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:08:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:09:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:09:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:09:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:11:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:13:59 --> Severity: 8192 --> The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence D:\xampp\htdocs\e-klaim\app\controllers\Laporan.php 97
+ERROR - 2020-07-21 04:13:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:13:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:13:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:14:03 --> Severity: 8192 --> The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence D:\xampp\htdocs\e-klaim\app\controllers\Laporan.php 97
+ERROR - 2020-07-21 04:14:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:14:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:14:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:21:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:21:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:21:34 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:21:34 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:21:34 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:24:32 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:24:32 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:24:39 --> Query error: Unknown column 'no_sep1' in 'group statement' - Invalid query: SELECT *, count(log_id) as status_generate
+FROM `view_berkaspasien`
+LEFT JOIN `log_berkaspasien` ON `id_daftar`=`log_iddaftar`
+WHERE   (
+`kode_jenis` = 'RITL'
+OR `kode_jenis` = 'RJTL'
+ )
+AND   (
+`no_sep` LIKE '%%' ESCAPE '!'
+OR  `nomr` LIKE '%%' ESCAPE '!'
+OR  `nama_pasien` LIKE '%%' ESCAPE '!'
+OR  `tempat_lahir` LIKE '%%' ESCAPE '!'
+OR  `tgl_lahir` LIKE '%%' ESCAPE '!'
+OR  `jns_kelamin` LIKE '%%' ESCAPE '!'
+OR  `kode_jenis` LIKE '%%' ESCAPE '!'
+OR  `jenis_berkas` LIKE '%%' ESCAPE '!'
+OR  `poliklinik` LIKE '%%' ESCAPE '!'
+OR  `berkas_wajib` LIKE '%%' ESCAPE '!'
+OR  `jml_verifikasi` LIKE '%%' ESCAPE '!'
+OR  `jml_berkas` LIKE '%%' ESCAPE '!'
+ )
+GROUP BY `no_sep1`
+ORDER BY `id_daftar` DESC
+ LIMIT 20
+ERROR - 2020-07-21 04:28:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:28:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:28:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:29:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:30:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:31:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:31:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:31:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:41:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:41:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:41:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:41:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:42:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:42:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:42 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:42:43 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:14 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:16 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:43:57 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:57 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:58 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:59 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:59 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:43:59 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:00 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:00 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:00 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:00 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:01 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:01 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:01 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:01 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:01 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:02 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:44:06 --> 404 Page Not Found: Verifikasi/cekstatus
+ERROR - 2020-07-21 04:47:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:47:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:47:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:50:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:50:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:50:20 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:51:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:51:05 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:51:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:51:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:51:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:52:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:52:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:52:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:53:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:53:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:53:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:54:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:54:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:54:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:55:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:57:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:57:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:57:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:58:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:58:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:58:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:51 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:51 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 04:59:51 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:26 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:26 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:00:27 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:01:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:01:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:01:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:04:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:04:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:04:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:05:27 --> Severity: 8192 --> The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence D:\xampp\htdocs\e-klaim\app\controllers\Laporan.php 97
+ERROR - 2020-07-21 05:05:27 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:05:27 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:05:50 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:05:50 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:05:50 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:52 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:06:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:07:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:23 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:23 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:23 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:44 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:44 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:44 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:08:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:09:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:10:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:01 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:03 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:06 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:33 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:33 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:33 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:38 --> Severity: 8192 --> The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence D:\xampp\htdocs\e-klaim\app\controllers\Laporan.php 97
+ERROR - 2020-07-21 05:11:38 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:38 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:38 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:41 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:42 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:11:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:13 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:15 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:15 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:46 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:12:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:02 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:02 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:02 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:04 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:04 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:04 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:25 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:25 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:25 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:13:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:16:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:16:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:16:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:28:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:28:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:28:22 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:32:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:32:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:32:40 --> Severity: 8192 --> The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence D:\xampp\htdocs\e-klaim\app\controllers\Laporan.php 97
+ERROR - 2020-07-21 05:32:40 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 05:32:40 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:00:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:00:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:00:53 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:04:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:04:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:04:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:04:43 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:11 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:21 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:45 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:05:48 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:07 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:24 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:09:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:12 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:12 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:28 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:28 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:10:31 --> 404 Page Not Found: Files/2020
+ERROR - 2020-07-21 06:10:31 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:11:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:11:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:15 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:15 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:15 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:15:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:17:47 --> 404 Page Not Found: Verifikasi1/index
+ERROR - 2020-07-21 06:17:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:17:56 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:20:08 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:20:08 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:20:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:20:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:20:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:27:40 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:27:40 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:27:40 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:28:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:28:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-07-21 06:28:00 --> 404 Page Not Found: Assets/components

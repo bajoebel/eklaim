@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-24 03:55:29 --> Severity: Notice --> Undefined property: stdClass::$user_namalengkap C:\xampp\htdocs\e-klaim\app\controllers\Home.php 53
+ERROR - 2020-05-24 03:55:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:29 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:30 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:33 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:33 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:34 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:35 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:35 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:55:35 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:16 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:17 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:18 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:57:19 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:58:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:58:36 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:58:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:58:37 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:58:38 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:47 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 03:59:49 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:00:54 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:00:55 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:00:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:00:57 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:00:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:01:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:01:58 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:01:59 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:02:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:02:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:03:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:03:00 --> 404 Page Not Found: Assets/components
+ERROR - 2020-05-24 04:03:00 --> 404 Page Not Found: Assets/components
